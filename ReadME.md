@@ -1,7 +1,7 @@
 # Language Model Chatbot Project
 
 ## Start with Why
-Besides being an engineer and an AI enthusiast, I am a Founding Member at [No Pressure Improv](https://www.instagram.com/nopressureimprov/) - a performing arts group in Bangalore. As the name suggests, we improvise! ([!And_adapt_and_overcome!](https://i.kym-cdn.com/entries/icons/mobile/000/023/987/overcome.jpg))
+Besides being an engineer and an AI enthusiast, I am a Founding Member at [No Pressure Improv](https://www.instagram.com/nopressureimprov/) - a performing arts group in Bangalore. As the name suggests, we improvise! ![Bear Grylls,wearing a blue jacket looking into the camera with a serious face](https://i.kym-cdn.com/entries/icons/mobile/000/023/987/overcome.jpg))
 
 There is a lot of curiosity around improv. That means a lot of people want to know about improv! *(Yay!)* And also that people have to answer those questions a lot of time. *(Oh...)*
 
