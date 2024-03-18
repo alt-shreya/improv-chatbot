@@ -14,7 +14,7 @@ This is going to be implemented on our website, so that commonly asked questions
 ### Project Features
 
 #### Chatbot Implementation:
-* Utilizes Google Gemini and LangChain to create an intelligent and interactive chatbot.
+* Uses Google Gemini and LangChain to create an intelligent and interactive chatbot.
 * Trained on a custom dataset consisting of FAQs from my improv troupe to enhance contextual understanding.
 
 #### FAQ Dataset:
