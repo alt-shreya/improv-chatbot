@@ -22,12 +22,11 @@ This chatbot project leverages Google Gemini and LangChain, along with a custom 
 * The dataset enriches the chatbot's ability to provide relevant and context-aware responses.
 
 ## 🚧 Work in Progress
-The current focus of this project is to address dependencies related to the language model to ensure smooth functionality and compatibility by **migrating to LCEL**.
+The current focus of this project is to address dependency-related errors.
 
 ## Demo/ How to see this Chatbot in Action
 
-* I am still working on the migration process. However, you cna still check out the code! 
-* I have uploaded this project as a [Colab Notebook](https://colab.research.google.com/drive/1HuqM1v9GQDqWaXM8i5VG7CCRh1kZtX8J?usp=sharing). 
+* This project is uploaded as a [Colab Notebook](https://colab.research.google.com/drive/1HuqM1v9GQDqWaXM8i5VG7CCRh1kZtX8J?usp=sharing). 
 * To run this notebook
     1. Copy the notebook into your Drive, 
     2. Download the dataset from [here](improv-llm-qna/improv-qna.csv)
